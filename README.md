@@ -21,7 +21,7 @@ To enhance the practical utility of our proposed model, we developed the final p
 * biopython==1.81
 * xlstm==2.0.2
 
-### Executing program (take EC as an example)
+### Executing program
 * run /reproduce/multi-aop/hierarchical_train.py to reproduce the experimental result
 * run /reproduce/ml_base/aop_ml_train_test.py to reproduce the experimental result
 * run reproduce/mulit-aop/predict.py to predict peptide antioxidant acitivity
